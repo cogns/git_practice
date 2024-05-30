@@ -1,6 +1,3 @@
 hello world2
 hello world5
 hello world7
-error: You have not concluded your merge (MERGE_HEAD exists).
-error: You have not concluded your merge (MERGE_HEAD exists).
-error: You have not concluded your merge (MERGE_HEAD exists).
