@@ -92,3 +92,14 @@ git stash list
 git stash show -p 인덱스
 # 저장한 stash목록 전체 삭제
 git stash clear
+
+# 버전명시 tagging
+git tag v1.0
+git tag v1.0 -m "메시지(ex 주요추가사항)"
+
+# tag release 배포
+# commit push와 상관없이 태그(release) 별도 push
+git push origin v1.0
+
+# 태그 목록 조회
+git tag
