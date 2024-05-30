@@ -2,11 +2,4 @@ hello world1
 hello world2
 hello world3
 hello world4
-hello world1
-hello world2
-hello world3
-hello world4
-hello world1
-hello world2
-hello world3
-hello world4
+error: You have not concluded your merge (MERGE_HEAD exists).
