@@ -1,6 +1,4 @@
 hello world2
 hello world5
 hello world7
-hello world7
-hello world8
-hello world9
+PS C:\Users\rnjsc\Desktop\git_practice>
