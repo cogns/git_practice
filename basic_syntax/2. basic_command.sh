@@ -120,4 +120,10 @@ git branch
 # 브랜치 생성과 전환 동시에
 git checkout -b 브랜치명
 
-# 
+# 로컬 브랜치 삭제
+git branch -D 삭제할 로컬 브랜치명
+
+
+# 리모트브랜치도 삭제
+# 또는 github에서 직접 삭제
+- git push origin --delete 브랜치명
