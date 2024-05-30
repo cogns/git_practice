@@ -78,12 +78,3 @@ git config user.email
 
 # git ignore 파일 실습
 # 확장자 .gitignore 파일 생성 후 git 추적 제외 대상 나열
-
-# 작업중인 사항을 임시저장
-git stash
-# 저장된 최신의 작업목록 꺼내기
-git stash pop
-# 저장한 작업사항 목록조회
-git stash list
-# 저장한 작업목록 상세조회
-git stash show -p 인덱스
