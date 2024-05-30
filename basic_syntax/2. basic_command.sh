@@ -115,4 +115,3 @@ git checkout 브랜치명
 
 # 브랜치 목록 조회
 git branch
-
