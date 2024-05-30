@@ -67,11 +67,17 @@ git diff A B
 git diff commitID1 commitID2
 git diff A브랜치 B브랜치
 
-# git fetch
+
 # 원격에 변경사항을 로컬에 가져오되 병합은 하지 않는것
 # 비교 : git pull origin main 과 git fetch origin main 비교
 # fetch는 가지고 오기만 하는것, pull은 가지고 와서 병합 하는것
+git fetch
 
+
+# master브랜치와 test 브랜치가 있다고 했을 경우, 
+# git merge test를 하게되면 
+# test브랜치에만 있던 코드가 master브랜치에 병합된다. 
+git mrege 브랜치명
 
 
 # 작업중인 사항을 임시저장
