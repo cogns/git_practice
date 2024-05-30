@@ -73,6 +73,7 @@ git diff A브랜치 B브랜치
 # fetch는 가지고 오기만 하는것, pull은 가지고 와서 병합 하는것
 git fetch 
 git fetch --all #모든 브랜치 정보
+git fetch --all --prune
 
 
 # master브랜치와 test 브랜치가 있다고 했을 경우, 
