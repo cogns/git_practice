@@ -17,7 +17,7 @@ git push origin main #main : 브랜치명
 
 
 
-# git 프로젝ㅌ 생성방법 2가지
+# git 프로젝트 생성방법 2가지
 # 방법1. 원격 repo 생성 후 clone
 
 # 방법2. 로컬에서부터 이미 개발된 프로젝트 존재시에 github 업로드

@@ -70,3 +70,6 @@ git diff A브랜치 B브랜치
 # git fetch
 # 원격에 변경사항을 로컬에 가져오되 병합은 하지 않는것
 # 비교 : git pull origin main 과 git fetch origin main 비교
+# fetch는 가지고 오기만 하는것, pull은 가지고 와서 병합 하는것
+
+
